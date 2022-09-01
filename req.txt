@@ -19,5 +19,4 @@ ChromePasswordsStealer
 winregistry
 anonfile
 pyarmor
-shutil
 anonfile
