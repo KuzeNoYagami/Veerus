@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=0AFyxSoZpoY
   
  
 <!-- About the Project -->
-## :star2: Discord server : https://discord.gg/7GkfBzRQXX
+## :star2: Discord server : https://discord.gg/MGHu5UqVbs
   
   
 ## :star2: About the Project
