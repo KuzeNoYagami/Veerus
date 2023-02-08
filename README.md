@@ -15,16 +15,13 @@ The Best Multifunctional Computer Virus Including : RAT, Stealer, XMR Miner, Tok
   </p>
   
 <!-- About the Project --> 
-## Video tutorial
-https://www.youtube.com/watch?v=0AFyxSoZpoY
-
 
 <!-- About the Project -->
 ## :warning: EDUCATIONAL PURPOSES ONLY
   
  
 <!-- About the Project -->
-## :star2: Discord server : https://discord.gg/MGHu5UqVbs
+## :star2: Discord server : https://discord.gg/CYcKzAX8xD
   
   
 ## :star2: About the Project
@@ -159,4 +156,4 @@ Emails :
  angelique.cloutier60@yahoo.com 
  sxzuu@yahoo.com 
 
-Discord Server : https://discord.gg/jde3wwSVDa (open ticket)
+Discord Server : https://discord.gg/CYcKzAX8xD (open ticket)
